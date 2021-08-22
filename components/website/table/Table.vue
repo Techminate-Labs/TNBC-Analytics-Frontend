@@ -207,9 +207,7 @@ export default class Table extends Vue {
 }
 </script>
 <style scoped>
-.current {
-  @apply z-10 bg-blue-500 text-white;
-}
+
 @media (max-width: 1024px) {
   table {
     border: 0;
